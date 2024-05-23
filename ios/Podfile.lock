@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - otpless_flutter (0.0.4):
+    - Flutter
+    - OtplessSDK (= 2.1.1)
+  - OtplessSDK (2.1.1)
+  - uni_links (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - otpless_flutter (from `.symlinks/plugins/otpless_flutter/ios`)
+  - uni_links (from `.symlinks/plugins/uni_links/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OtplessSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  otpless_flutter:
+    :path: ".symlinks/plugins/otpless_flutter/ios"
+  uni_links:
+    :path: ".symlinks/plugins/uni_links/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  otpless_flutter: f362824fbefc368cefd4164ae89f951cb8ed2811
+  OtplessSDK: a8d6d853e54d10258826bd00eb7d9417edf615b2
+  uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.13.0
